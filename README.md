@@ -1,4 +1,4 @@
-![Kuro](https://i.postimg.cc/Y0LP3TTn/your-image.png)
+![Kuro CNC Preview](https://i.postimg.cc/Y0LP3TTn/your-image.png)
 
 # Kuro CNC
 
