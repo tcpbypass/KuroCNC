@@ -22,7 +22,7 @@ Packed with core features and built for flexibility, Kuro is perfect for anyone 
 
 ## Why Kuro?
 
-Kuro CNC is built to be straightforward and effective. Whether you're just getting started or you’re building something more advanced, Kuro gives you a solid, no-nonsense base to work from — with just enough raw power to take it further.
+Kuro CNC is built to be straightforward and effective. Whether you're just getting started or you’re building something more advanced, Kuro gives you a solid, no-nonsense base to work from .
 
 ---
 
