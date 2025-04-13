@@ -1,4 +1,4 @@
-![Kuro]([images/my-image.png](https://i.postimg.cc/63Pndp6y/diddy.png))
+![Kuro](https://i.postimg.cc/63Pndp6y/diddy.png)
 
 # Kuro CNC
 
